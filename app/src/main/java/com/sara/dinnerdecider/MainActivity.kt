@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
             val newFood = addFoodTxt.text.toString()
             foodList.add(newFood)
             addFoodTxt.text.clear()
-            println(foodList)
+            println(foodlist)
         }
 
 
