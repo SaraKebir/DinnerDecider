@@ -1,2 +1,2 @@
 # DinnerDecider
-une application test ( apprentissage android studio)
+Android app developed using Kotlin in android studio
